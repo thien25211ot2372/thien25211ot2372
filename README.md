@@ -43,7 +43,13 @@ I'm working toward a portfolio of projects covering:
 
 ## 📂 Explore My Work
 
-Visit [my GitHub repositories](https://github.com/thien25211ot2372?tab=repositories) to see projects as they become available.
+## 📌 My Current Focus
+
+I'm learning GitHub and building my technical portfolio step by step. My focus is on practical financial data analysis, reliable automation, and documenting what I learn.
+
+As I publish working projects, I'll add links to their code, tests, and documentation here.
+
+
 
 ---
 
